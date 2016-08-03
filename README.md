@@ -1,1 +1,2 @@
-This project has moved to http://github.com/hongcoin/. 
+Project HONG has moved to http://github.com/hongcoin/. 
+
